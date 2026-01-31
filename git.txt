@@ -3,3 +3,5 @@
 # eat 
 #sleep
 # play
+# pray
+#enjoy
